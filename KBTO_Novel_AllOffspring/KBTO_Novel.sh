@@ -1,0 +1,1 @@
+./colony2s.ifort.out IFN:KBTONovel_AllOffspring.dat 
