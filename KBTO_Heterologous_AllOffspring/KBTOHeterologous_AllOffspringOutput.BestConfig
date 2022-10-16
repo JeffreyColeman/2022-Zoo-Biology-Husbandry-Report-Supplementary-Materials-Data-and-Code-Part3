@@ -1,0 +1,16 @@
+         OffspringID             FatherID             MotherID  ClusterIndex
+                  M1                   *1                   #1             1
+                  M2                   *2                   #2             2
+                  M3                   *3                   #3             3
+                  M4                   *4                   #3             3
+                  M5                   *5                   #4             4
+                  M6                   *5                   #4             4
+                  M7                   *5                   #4             4
+                  F1                   *5                   #4             4
+                  F2                   *5                   #4             4
+                  F3                   *6                   #5             5
+                  F4                   *7                   #6             6
+                  F5                   *8                   #7             7
+                  F6                   *9                   #8             8
+                  F7                  *10                   #9             9
+                  F8                   *8                   #7             7

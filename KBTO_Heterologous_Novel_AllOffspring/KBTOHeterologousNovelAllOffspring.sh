@@ -1,0 +1,1 @@
+./colony2s.ifort.out IFN:KBTOHeterologousNovelAllOffspring.dat 

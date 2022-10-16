@@ -1,0 +1,25 @@
+Archived Configurations with corresponding log likelihood
+Config#,1,LogLikelihood,-7.8401524256E+02
+OffspringID,FatherID,MotherID,ClusterIndex
+KBTO10,*1,F5,1
+KBTO11,M2,F5,1
+Config#,2,LogLikelihood,-7.8603854354E+02
+OffspringID,FatherID,MotherID,ClusterIndex
+KBTO10,*1,F5,1
+KBTO11,*1,F5,1
+Config#,3,LogLikelihood,-7.8760377908E+02
+OffspringID,FatherID,MotherID,ClusterIndex
+KBTO10,M2,#1,1
+KBTO11,M2,F5,1
+Config#,4,LogLikelihood,-7.8899570827E+02
+OffspringID,FatherID,MotherID,ClusterIndex
+KBTO10,M2,#1,1
+KBTO11,M2,#1,1
+Config#,5,LogLikelihood,-7.9236118313E+02
+OffspringID,FatherID,MotherID,ClusterIndex
+KBTO10,*1,F5,1
+KBTO11,*2,F5,1
+Config#,6,LogLikelihood,-7.9359220398E+02
+OffspringID,FatherID,MotherID,ClusterIndex
+KBTO10,*1,#1,1
+KBTO11,M2,F5,2
